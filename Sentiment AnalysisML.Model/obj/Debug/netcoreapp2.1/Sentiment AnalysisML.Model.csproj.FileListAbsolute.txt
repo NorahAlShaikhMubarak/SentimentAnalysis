@@ -1,0 +1,18 @@
+C:\Users\mhabi\source\repos\Sentiment Analysis\Sentiment AnalysisML.Model\bin\Debug\netcoreapp2.1\MLModel.zip
+C:\Users\mhabi\source\repos\Sentiment Analysis\Sentiment AnalysisML.Model\bin\Debug\netcoreapp2.1\Sentiment AnalysisML.Model.deps.json
+C:\Users\mhabi\source\repos\Sentiment Analysis\Sentiment AnalysisML.Model\bin\Debug\netcoreapp2.1\Sentiment AnalysisML.Model.dll
+C:\Users\mhabi\source\repos\Sentiment Analysis\Sentiment AnalysisML.Model\bin\Debug\netcoreapp2.1\Sentiment AnalysisML.Model.pdb
+C:\Users\mhabi\source\repos\Sentiment Analysis\Sentiment AnalysisML.Model\obj\Debug\netcoreapp2.1\Sentiment AnalysisML.Model.csproj.CoreCompileInputs.cache
+C:\Users\mhabi\source\repos\Sentiment Analysis\Sentiment AnalysisML.Model\obj\Debug\netcoreapp2.1\Sentiment AnalysisML.Model.AssemblyInfoInputs.cache
+C:\Users\mhabi\source\repos\Sentiment Analysis\Sentiment AnalysisML.Model\obj\Debug\netcoreapp2.1\Sentiment AnalysisML.Model.AssemblyInfo.cs
+C:\Users\mhabi\source\repos\Sentiment Analysis\Sentiment AnalysisML.Model\obj\Debug\netcoreapp2.1\Sentiment AnalysisML.Model.dll
+C:\Users\mhabi\source\repos\Sentiment Analysis\Sentiment AnalysisML.Model\obj\Debug\netcoreapp2.1\Sentiment AnalysisML.Model.pdb
+C:\Users\Rawan\Downloads\Sentiment Analysis\Sentiment AnalysisML.Model\bin\Debug\netcoreapp2.1\MLModel.zip
+C:\Users\Rawan\Downloads\Sentiment Analysis\Sentiment AnalysisML.Model\bin\Debug\netcoreapp2.1\Sentiment AnalysisML.Model.deps.json
+C:\Users\Rawan\Downloads\Sentiment Analysis\Sentiment AnalysisML.Model\bin\Debug\netcoreapp2.1\Sentiment AnalysisML.Model.dll
+C:\Users\Rawan\Downloads\Sentiment Analysis\Sentiment AnalysisML.Model\bin\Debug\netcoreapp2.1\Sentiment AnalysisML.Model.pdb
+C:\Users\Rawan\Downloads\Sentiment Analysis\Sentiment AnalysisML.Model\obj\Debug\netcoreapp2.1\Sentiment AnalysisML.Model.csprojAssemblyReference.cache
+C:\Users\Rawan\Downloads\Sentiment Analysis\Sentiment AnalysisML.Model\obj\Debug\netcoreapp2.1\Sentiment AnalysisML.Model.AssemblyInfoInputs.cache
+C:\Users\Rawan\Downloads\Sentiment Analysis\Sentiment AnalysisML.Model\obj\Debug\netcoreapp2.1\Sentiment AnalysisML.Model.AssemblyInfo.cs
+C:\Users\Rawan\Downloads\Sentiment Analysis\Sentiment AnalysisML.Model\obj\Debug\netcoreapp2.1\Sentiment AnalysisML.Model.dll
+C:\Users\Rawan\Downloads\Sentiment Analysis\Sentiment AnalysisML.Model\obj\Debug\netcoreapp2.1\Sentiment AnalysisML.Model.pdb

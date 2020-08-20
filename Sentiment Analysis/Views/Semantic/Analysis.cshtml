@@ -1,0 +1,85 @@
+﻿@model SentimentAnalysisML.Model.DataModels.ModelInput
+
+@{
+    ViewData["Title"] = "Semantic Analysis";
+}
+    <head>
+        @*Style for MARQUEE*@
+        <style>
+            MARQUEE {
+                color: white;
+                word-spacing: 1px;
+                font-size: 1.8vw;
+                font-family:Georgia;
+                left: 30px;
+                right: 30px;
+                top: 10%;
+                width: auto;
+                height: 40px;
+                z-index: 2000000;
+                margin-bottom: 30px;
+                padding: 0px;
+                position: absolute;
+                pointer-events: none;
+                box-sizing: border-box;
+                border-width: 0px;
+                border-style: none;
+                background-color: rgba(0, 0, 0, 0.3);
+            }
+        </style>
+    </head>
+    <body background="C:\Users\Rawan\Downloads\Sentiment Analysis\Sentiment Analysis\img\bg_home.png" style="background-repeat: no-repeat; background-size:cover">
+        <br /><br /><br /><br />
+        <marquee>Sentiment analysis helps in discovering people opinions, emotions, and feelings about a product or service whether it is negative or posative.</marquee>
+
+        @*Info about the website*@
+        <h1 style="color:white; text-align:center; font-family:Georgia">Text Sentiment Analysis<br />for Businesses</h1>
+        <h2 style="color:white; text-align:center; font-family:fantasy">Fast, reliable & accurate sentiment analysis.<br />Perform sentiment analysis and extract semantic insights from social media, news,<br />surveys, blogs, forums or any of your company data.</h2>
+
+        @*Get the result from the model*@
+        @{
+            var result = ViewBag.Result;
+        }
+
+        @*The main div containes the whole contents*@
+        <div class="row" style="background-color: rgba(0, 0, 0, 0.3);">
+            @*Form to get the input*@
+            <div class="col-md-4">
+                <form asp-action="Analysis">
+                    <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                    <div class="form-group">
+                        <br />
+                        <label style="color:white; font-family:Georgia; font-size:20px;" asp-for="Comment" class="control-label"></label>
+                        <input asp-for="Comment" class="form-control" />
+                        <span asp-validation-for="Comment" class="text-danger"></span>
+                    </div>
+                    <div class="form-group">
+                        <input type="submit" value="Check" class="btn btn-default" />
+                    </div>
+                </form>
+            </div>
+
+            @*Form to display the result from the model*@
+            <div class="col-md-offset-4 col-md-4">
+                @if (result != null)
+                {
+                    <h2 style="color:white; font-family:Georgia">Prediction Result</h2>
+                    @if (result.Prediction == true)
+                    {
+                        <img src="C:\Users\Rawan\Downloads\Sentiment Analysis\Sentiment Analysis\img\negative.png" />
+                        <h2 style="color:white; font-size: 30px; font-family:Georgia">Score:@result.Score</h2>
+                    }
+                    @if (result.Prediction == false)
+                    {
+                        <img src="C:\Users\Rawan\Downloads\Sentiment Analysis\Sentiment Analysis\img\positive.png" />
+                        <h2 style="color:white; font-size: 30px; font-family:Georgia">Score:  @result.Score</h2>
+                    }
+                }
+
+            </div>
+        </div>
+    </body>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

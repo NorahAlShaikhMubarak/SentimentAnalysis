@@ -1,0 +1,66 @@
+C:\Users\mhabi\source\repos\Sentiment Analysis\Sentiment Analysis\bin\Debug\netcoreapp2.1\MLModel.zip
+C:\Users\mhabi\source\repos\Sentiment Analysis\Sentiment Analysis\bin\Debug\netcoreapp2.1\Sentiment Analysis.deps.json
+C:\Users\mhabi\source\repos\Sentiment Analysis\Sentiment Analysis\bin\Debug\netcoreapp2.1\Sentiment Analysis.runtimeconfig.json
+C:\Users\mhabi\source\repos\Sentiment Analysis\Sentiment Analysis\bin\Debug\netcoreapp2.1\Sentiment Analysis.runtimeconfig.dev.json
+C:\Users\mhabi\source\repos\Sentiment Analysis\Sentiment Analysis\bin\Debug\netcoreapp2.1\Sentiment Analysis.dll
+C:\Users\mhabi\source\repos\Sentiment Analysis\Sentiment Analysis\bin\Debug\netcoreapp2.1\Sentiment Analysis.pdb
+C:\Users\mhabi\source\repos\Sentiment Analysis\Sentiment Analysis\bin\Debug\netcoreapp2.1\Sentiment Analysis.Views.dll
+C:\Users\mhabi\source\repos\Sentiment Analysis\Sentiment Analysis\bin\Debug\netcoreapp2.1\Sentiment Analysis.Views.pdb
+C:\Users\mhabi\source\repos\Sentiment Analysis\Sentiment Analysis\bin\Debug\netcoreapp2.1\Sentiment AnalysisML.Model.dll
+C:\Users\mhabi\source\repos\Sentiment Analysis\Sentiment Analysis\bin\Debug\netcoreapp2.1\Sentiment AnalysisML.Model.pdb
+C:\Users\mhabi\source\repos\Sentiment Analysis\Sentiment Analysis\obj\Debug\netcoreapp2.1\Sentiment Analysis.csprojAssemblyReference.cache
+C:\Users\mhabi\source\repos\Sentiment Analysis\Sentiment Analysis\obj\Debug\netcoreapp2.1\Sentiment Analysis.csproj.CoreCompileInputs.cache
+C:\Users\mhabi\source\repos\Sentiment Analysis\Sentiment Analysis\obj\Debug\netcoreapp2.1\Sentiment Analysis.RazorAssemblyInfo.cache
+C:\Users\mhabi\source\repos\Sentiment Analysis\Sentiment Analysis\obj\Debug\netcoreapp2.1\Sentiment Analysis.RazorAssemblyInfo.cs
+C:\Users\mhabi\source\repos\Sentiment Analysis\Sentiment Analysis\obj\Debug\netcoreapp2.1\Sentiment Analysis.AssemblyInfoInputs.cache
+C:\Users\mhabi\source\repos\Sentiment Analysis\Sentiment Analysis\obj\Debug\netcoreapp2.1\Sentiment Analysis.AssemblyInfo.cs
+C:\Users\mhabi\source\repos\Sentiment Analysis\Sentiment Analysis\obj\Debug\netcoreapp2.1\Sentiment Analysis.TagHelpers.input.cache
+C:\Users\mhabi\source\repos\Sentiment Analysis\Sentiment Analysis\obj\Debug\netcoreapp2.1\Sentiment Analysis.TagHelpers.output.cache
+C:\Users\mhabi\source\repos\Sentiment Analysis\Sentiment Analysis\obj\Debug\netcoreapp2.1\Sentiment Analysis.RazorCoreGenerate.cache
+C:\Users\mhabi\source\repos\Sentiment Analysis\Sentiment Analysis\obj\Debug\netcoreapp2.1\Razor\Views\Semantic\Analysis.g.cshtml.cs
+C:\Users\mhabi\source\repos\Sentiment Analysis\Sentiment Analysis\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\mhabi\source\repos\Sentiment Analysis\Sentiment Analysis\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\mhabi\source\repos\Sentiment Analysis\Sentiment Analysis\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\mhabi\source\repos\Sentiment Analysis\Sentiment Analysis\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\mhabi\source\repos\Sentiment Analysis\Sentiment Analysis\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\mhabi\source\repos\Sentiment Analysis\Sentiment Analysis\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\mhabi\source\repos\Sentiment Analysis\Sentiment Analysis\obj\Debug\netcoreapp2.1\Sentiment Analysis.RazorTargetAssemblyInfo.cache
+C:\Users\mhabi\source\repos\Sentiment Analysis\Sentiment Analysis\obj\Debug\netcoreapp2.1\Sentiment Analysis.RazorTargetAssemblyInfo.cs
+C:\Users\mhabi\source\repos\Sentiment Analysis\Sentiment Analysis\obj\Debug\netcoreapp2.1\Sentiment Analysis.Views.pdb
+C:\Users\mhabi\source\repos\Sentiment Analysis\Sentiment Analysis\obj\Debug\netcoreapp2.1\Sentiment Analysis.csproj.CopyComplete
+C:\Users\mhabi\source\repos\Sentiment Analysis\Sentiment Analysis\obj\Debug\netcoreapp2.1\Sentiment Analysis.dll
+C:\Users\mhabi\source\repos\Sentiment Analysis\Sentiment Analysis\obj\Debug\netcoreapp2.1\Sentiment Analysis.pdb
+C:\Users\Rawan\Downloads\Sentiment Analysis\Sentiment Analysis\bin\Debug\netcoreapp2.1\MLModel.zip
+C:\Users\Rawan\Downloads\Sentiment Analysis\Sentiment Analysis\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\Rawan\Downloads\Sentiment Analysis\Sentiment Analysis\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\Rawan\Downloads\Sentiment Analysis\Sentiment Analysis\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\Rawan\Downloads\Sentiment Analysis\Sentiment Analysis\bin\Debug\netcoreapp2.1\Sentiment Analysis.deps.json
+C:\Users\Rawan\Downloads\Sentiment Analysis\Sentiment Analysis\bin\Debug\netcoreapp2.1\Sentiment Analysis.runtimeconfig.json
+C:\Users\Rawan\Downloads\Sentiment Analysis\Sentiment Analysis\bin\Debug\netcoreapp2.1\Sentiment Analysis.runtimeconfig.dev.json
+C:\Users\Rawan\Downloads\Sentiment Analysis\Sentiment Analysis\bin\Debug\netcoreapp2.1\Sentiment Analysis.dll
+C:\Users\Rawan\Downloads\Sentiment Analysis\Sentiment Analysis\bin\Debug\netcoreapp2.1\Sentiment Analysis.pdb
+C:\Users\Rawan\Downloads\Sentiment Analysis\Sentiment Analysis\bin\Debug\netcoreapp2.1\Sentiment Analysis.Views.dll
+C:\Users\Rawan\Downloads\Sentiment Analysis\Sentiment Analysis\bin\Debug\netcoreapp2.1\Sentiment Analysis.Views.pdb
+C:\Users\Rawan\Downloads\Sentiment Analysis\Sentiment Analysis\bin\Debug\netcoreapp2.1\Sentiment AnalysisML.Model.dll
+C:\Users\Rawan\Downloads\Sentiment Analysis\Sentiment Analysis\bin\Debug\netcoreapp2.1\Sentiment AnalysisML.Model.pdb
+C:\Users\Rawan\Downloads\Sentiment Analysis\Sentiment Analysis\obj\Debug\netcoreapp2.1\Sentiment Analysis.csprojAssemblyReference.cache
+C:\Users\Rawan\Downloads\Sentiment Analysis\Sentiment Analysis\obj\Debug\netcoreapp2.1\Sentiment Analysis.RazorAssemblyInfo.cache
+C:\Users\Rawan\Downloads\Sentiment Analysis\Sentiment Analysis\obj\Debug\netcoreapp2.1\Sentiment Analysis.RazorAssemblyInfo.cs
+C:\Users\Rawan\Downloads\Sentiment Analysis\Sentiment Analysis\obj\Debug\netcoreapp2.1\Sentiment Analysis.AssemblyInfoInputs.cache
+C:\Users\Rawan\Downloads\Sentiment Analysis\Sentiment Analysis\obj\Debug\netcoreapp2.1\Sentiment Analysis.AssemblyInfo.cs
+C:\Users\Rawan\Downloads\Sentiment Analysis\Sentiment Analysis\obj\Debug\netcoreapp2.1\Sentiment Analysis.TagHelpers.input.cache
+C:\Users\Rawan\Downloads\Sentiment Analysis\Sentiment Analysis\obj\Debug\netcoreapp2.1\Sentiment Analysis.TagHelpers.output.cache
+C:\Users\Rawan\Downloads\Sentiment Analysis\Sentiment Analysis\obj\Debug\netcoreapp2.1\Sentiment Analysis.RazorCoreGenerate.cache
+C:\Users\Rawan\Downloads\Sentiment Analysis\Sentiment Analysis\obj\Debug\netcoreapp2.1\Razor\Views\Semantic\Analysis.cshtml.g.cs
+C:\Users\Rawan\Downloads\Sentiment Analysis\Sentiment Analysis\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Rawan\Downloads\Sentiment Analysis\Sentiment Analysis\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\Rawan\Downloads\Sentiment Analysis\Sentiment Analysis\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Rawan\Downloads\Sentiment Analysis\Sentiment Analysis\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Rawan\Downloads\Sentiment Analysis\Sentiment Analysis\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Rawan\Downloads\Sentiment Analysis\Sentiment Analysis\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Rawan\Downloads\Sentiment Analysis\Sentiment Analysis\obj\Debug\netcoreapp2.1\Sentiment Analysis.RazorTargetAssemblyInfo.cache
+C:\Users\Rawan\Downloads\Sentiment Analysis\Sentiment Analysis\obj\Debug\netcoreapp2.1\Sentiment Analysis.RazorTargetAssemblyInfo.cs
+C:\Users\Rawan\Downloads\Sentiment Analysis\Sentiment Analysis\obj\Debug\netcoreapp2.1\Sentiment Analysis.Views.pdb
+C:\Users\Rawan\Downloads\Sentiment Analysis\Sentiment Analysis\obj\Debug\netcoreapp2.1\Sentiment Analysis.csproj.CopyComplete
+C:\Users\Rawan\Downloads\Sentiment Analysis\Sentiment Analysis\obj\Debug\netcoreapp2.1\Sentiment Analysis.dll
+C:\Users\Rawan\Downloads\Sentiment Analysis\Sentiment Analysis\obj\Debug\netcoreapp2.1\Sentiment Analysis.pdb
